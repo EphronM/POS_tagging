@@ -1,0 +1,4 @@
+outs:
+- md5: 6a164f41c491148867be9ef02aac51fd
+  size: 181337176
+  path: gru_trained.h5
